@@ -1,4 +1,4 @@
-# Sign Android Release Action
+# [FORK] Sign Android Release Action
 
 This action will help you sign an Android `.apk` or `.aab` (Android App Bundle) file for release.
 
